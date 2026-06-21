@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "thavala",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "psytrix999888.aternos.me",
     "port": 60230,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": true
   },
   "position": {
