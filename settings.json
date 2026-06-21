@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "thavala",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip": "psytrix999888.aternos.me",
     "port": 60230,
     "version": "1.21.11",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
