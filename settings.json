@@ -9,7 +9,7 @@
     "ip": "psytrix999888.aternos.me",
     "port": 60230,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
